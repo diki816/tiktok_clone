@@ -1,0 +1,11 @@
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/icudtl.dat
+D:/workspace/tiktok_clone/build/windows/runner/Debug/flutter_windows.dll
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/workspace/tiktok_clone/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
