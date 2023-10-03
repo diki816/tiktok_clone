@@ -1,4 +1,4 @@
-#Sun Aug 20 13:32:37 KST 2023
+#Sun Aug 20 15:32:26 KST 2023
 base.0=D\:\\workspace\\tiktok_clone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
