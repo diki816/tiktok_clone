@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import '../../constants/gaps.dart';
@@ -83,21 +84,10 @@ class InterestsScreend extends StatelessWidget {
             left: Sizes.size24,
             right: Sizes.size24,
           ),
-          child: Container(
-            padding: const EdgeInsets.symmetric(
-              vertical: Sizes.size20,
-            ),
-            decoration: BoxDecoration(
-              color: Theme.of(context).primaryColor,
-            ),
-            child: const Text(
-              'Next',
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                color: Colors.white,
-                fontSize: Sizes.size16,
-              ),
-            ),
+          child: CupertinoButton(
+            onPressed: () {},
+            color: Theme.of(context).primaryColor,
+            child: const Text('Next'),
           ),
         ),
       ),
