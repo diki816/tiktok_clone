@@ -26,7 +26,6 @@ class _PasswordScreenState extends State<PasswordScreen> {
       setState(() {
         _password = _passwordController.text;
       });
-      print(_passwordController.text);
     });
   }
 

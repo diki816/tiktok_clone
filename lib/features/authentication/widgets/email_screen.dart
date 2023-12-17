@@ -24,7 +24,6 @@ class _EmailScreenState extends State<EmailScreen> {
       setState(() {
         _email = _emailController.text;
       });
-      print(_emailController.text);
     });
   }
 

@@ -25,7 +25,6 @@ class _UsernameScreenState extends State<UsernameScreen> {
       setState(() {
         _username = _usernameController.text;
       });
-      print(_usernameController.text);
     });
   }
 
